@@ -1,0 +1,11 @@
+body {    
+    background-image: url(mem.jpg);
+}
+
+.text{
+    position: relative;
+    text-align: center;
+    padding-top: 20%;
+    color:white;
+
+}
